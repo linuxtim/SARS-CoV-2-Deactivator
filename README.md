@@ -1,4 +1,4 @@
-# de-cov-inator
+# SARS-CoV-2 Deactivator
 Effort to make low-cost devices to kill SARS-CoV-2 Coronavirus on used disposable personal protective equipment PPE, masks etc. so that they can be re-used to work-around potentially deadly PPE shortages.
 
 # Purpose
