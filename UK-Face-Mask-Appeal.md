@@ -6,7 +6,7 @@
 
 ## What's needed?
 
-Construction and industrial "dust masks" (respirators) - grade ideally **FFP3** (**FFP2** is now approved for NHS use if FFP3 are unavailable), maximum **one** ***unused*** **mask** of each manufacturer and model.
+Construction and industrial "dust masks" (respirators) - grade ideally **FFP3** (as of yesterday **FFP2** is now approved for NHS use if FFP3 are unavailable), maximum **one** ***unused*** **mask** of each manufacturer and model.
 
 One mask of each type (make and model) can be tested next week (up to **a max total of six**).  Ideally these should match the types used in the NHS closely (we have some information on masks being used in the NHS).
 
@@ -37,18 +37,17 @@ This list will be updated as we have more offers.
 
 # Why?
 
-Lab work carried out in California and The Netherlands last week has determined that at least some medical respirators ("Face masks"), can be successfully heat treated to temperatures which are known to deactivate (kill) the SARS-CoV-2 (COVID19) coronavirus, **without damaging their filtration efficiency**.
+Lab work carried out in California and The Netherlands last week has determined that at least some medical respirators ("Face masks"), can be successfully heat treated to temperatures which are known to deactivate (kill) the SARS-CoV-2 (COVID19) coronavirus, **without damaging the masks' filtration efficiency**.
 
 e.g. see https://aim.stanford.edu/covid-19-evidence-service/
 
-If masks can be safely decontaminated, then masks which are usually designated as "single use" (and are now being used at an extremely high rate in hospitals and GPs - infection control measures dictate that they are discarded aggressively), could be re-used in case of potentially life-endangering PPE equipment shortages.
-
+If masks can be safely decontaminated, then masks which are usually designated as "single use" could be re-used in case of potentially life-endangering PPE equipment shortages.  These masks are being used at a very high rate in hospitals and GPs - infection control measures dictate that they are discarded aggressively.
 
 A researcher at the Institute of Occupational Medicine, Edinburgh is planning to carry out similar tests next week (w/c 30 March) to ensure that the same processes can be used on a variety of masks which are available in the UK supply chain.
 
 UK hospitals use **P3** grade respirators ("face masks") for high risk areas - ref p24 to p26 in [NHS/Govt guidelines](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874316/Infection_prevention_and_control_guidance_for_pandemic_coronavirus.pdf).
 
-These masks are very similar to **FFP3** masks commonly used in the construction industry (particularly for fine dust e.g. angle grinding, asbestos removal etc.) - in some cases they are identical, sometimes different ("shrouded") valves used in the construction / industrial masks make them unsuitable for medical use (to prevent risk of infection *from* the medic to others).
+These masks are very similar to **FFP3** masks commonly used in the construction industry (particularly for fine dust e.g. angle grinding, asbestos removal etc.) - in some cases they are identical.
 
 Although the hospitals can't use some construction / industrial masks, **these experimental tests can use them**.  This is because manufacturers normally make all their P3 masks with the same filter material.  They only change the valves and other fittings, and add extra fluid-resistant layers for medical masks.
 
