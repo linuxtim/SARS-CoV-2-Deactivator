@@ -33,6 +33,9 @@ This list will be updated as we have more offers.
 * JSP/MARTcare FFP3 "cup moulded" style mask with semi shrouded valve (Tim Small).
 * 3M FFP2 "cup moulded" style mask (unknown model number - packaging missing, fully shrouded valve (M.M)).
 * FFP2 fold flat style (make/model TBC (M.P).
+* Supreme TTF FFP3 FLAT FACE MASK – H-OMP-008-CV  ([ENV Surveys](https://envsurveys.com/)).
+* Silverline 568946 Fold Flat Valved Face Mask FFP2 NR ([ENV Surveys](https://envsurveys.com/)).
+* 3m 8810 FFP2 NR (WSPR / CC).
 
 
 # Why?
