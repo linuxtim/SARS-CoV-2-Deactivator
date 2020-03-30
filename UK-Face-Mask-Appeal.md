@@ -35,7 +35,7 @@ This list will be updated as we have more offers.
 * FFP2 fold flat style (make/model TBC (M.P).
 * Supreme TTF FFP3 FLAT FACE MASK – H-OMP-008-CV  ([ENV Surveys](https://envsurveys.com/)).
 * Silverline 568946 Fold Flat Valved Face Mask FFP2 NR ([ENV Surveys](https://envsurveys.com/)).
-* 3m 8810 FFP2 NR (WSPR / CC).
+* 3m 8810 FFP2 NR unvalved (WSPR / CC).
 
 
 # Why?
